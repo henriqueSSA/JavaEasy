@@ -13,4 +13,5 @@ Status do Projeto: Em fase inicial
 Informações Gerais
 
 1.Implementado o input e controle de input.(Ok)
+2.Implementado a verificação de linha coluna e Velha.(OK)
 
