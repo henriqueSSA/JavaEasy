@@ -19,7 +19,7 @@ public class Jogo {
         //Variavel para tratamento de Input
         boolean cond;
         //Varivel para contar se deu jogo (Linha ou Coluna)
-        int contl,contc;
+        int contl,contc,conte,contd;
 
 
 
@@ -125,6 +125,30 @@ public class Jogo {
                         }
                     }
 
+                }
+            }
+
+            //Verificação inclinação esquerda
+            conte=0;
+            for(int e=0;e<=1;e++){
+                if(tab[e][e].equals(tab[e+1][e+1])){
+                    conte++;
+                    if(conte == 2 ){
+                        System.out.print("\n Inclinação esquerda COMPLETADA!!!");
+                        break jogadas;
+                    }
+                }
+            }
+
+            //Verificação inclinação direita
+            contd=0;
+            for(int e=2;e>=1;e--){
+                if(tab[e][contd].equals(tab[e-1][contd+1])){
+                    contd++;
+                    if(contd == 2 ){
+                        System.out.print("\n Inclinação direita COMPLETADA!!!");
+                        break jogadas;
+                    }
                 }
             }
 
