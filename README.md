@@ -16,3 +16,5 @@ Informações Gerais
 
 2.Implementado a verificação de linha coluna e Velha.(OK)
 
+3.Implementado a verificação de inclinação.(OK)
+
