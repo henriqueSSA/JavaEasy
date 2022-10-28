@@ -8,7 +8,7 @@ O projeto Typespeed foi desenvolvido afim de aplicar o que foi aprendido no estu
     
     
     Linguagem de Programação: Java
-    Arquitetura: PC
+    
 
 Status do Projeto: Concluido
 
@@ -28,7 +28,7 @@ O projeto Tic Tac Toe foi desenvolvido afim de aplicar o que foi aprendido no es
     
     
     Linguagem de Programação: Java
-    Arquitetura: PC
+    
 
 Status do Projeto: Concluido
 
