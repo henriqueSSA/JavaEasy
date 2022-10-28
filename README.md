@@ -1,5 +1,6 @@
-# JavaEasy - Trata-se da criação de codigos com dificuldade facil, afim de consolidar os conhecimentos em java de um programador iniciante java.
+# JavaEasy - 
 
+Trata-se da criação de codigos com dificuldade facil, afim de consolidar os conhecimentos em java de um programador iniciante java.
 
 TypeSpeed Program Project
 
